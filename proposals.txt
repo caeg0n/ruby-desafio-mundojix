@@ -1,33 +1,97 @@
-Diminuindo tempo de execução de testes em aplicações Rails enterprise 54min
-Reinventando a roda em ASP clássico 45min
-Apresentando Lua para as massas 30min
-Erros de Ruby oriundos de versões erradas de gems 45min
-Erros comuns em Ruby 45min
-Rails para usuários de Django lightning
-Trabalho remoto: prós e cons 60min
-Desenvolvimento orientado a gambiarras 45min
-Aplicações isomórficas: o futuro (que talvez nunca chegaremos) 30min
-Codifique menos, Escreva mais! 30min
-Programação em par 45min
-A mágica do Rails: como ser mais produtivo 60min
-Ruby on Rails: Por que devemos deixá-lo para trás 60min
-Clojure engoliu Scala: migrando minha aplicação 45min
-Ensinando programação nas grotas de Maceió 30min
-Ruby vs. Clojure para desenvolvimento backend 30min
-Manutenção de aplicações legadas em Ruby on Rails 60min
-Um mundo sem StackOverflow 30min
-Otimizando CSS em aplicações Rails 30min
-xxxx 17min
-yyyy 11min
-wwww 37min
-qqqq 37min
-eeee 39min
-iiii 32min
-uuuu 11min
-hhhh 27min
-pppp 26min
-vvvv 20min
-mmmm 59min
-gggg 59min
-oooo 58min
-rrrr 57min
+cmbph 46min
+jjuda 52min
+cstox 23min
+brzye 26min
+jszni 49min
+yipdj 53min
+lcxdg 60min
+urblv 24min
+rxnjm 49min
+hhfit 25min
+kpvnh 5min
+qfnvg 34min
+rhdhj 13min
+vdksn 47min
+zfoqw 10min
+krtab 7min
+gbpac 28min
+crhdn 38min
+rpyin 25min
+zozii 44min
+gbggs 31min
+wvbyg 60min
+htrzc 53min
+kipib 21min
+rzmky 56min
+yvfzq 39min
+mdbwe 30min
+vdxsp 48min
+kmqsm 42min
+gfkdd 35min
+ohjql 60min
+mnota 54min
+czhrc 46min
+dahxq 39min
+yfbyq 46min
+roqby 36min
+iargl 18min
+yzztf 56min
+zjkuy 38min
+nrxpq 59min
+nemek 47min
+mphfj 4min
+nbpyk 8min
+opyok 15min
+jdjms 60min
+oodtt 34min
+qwmet 7min
+mehof 37min
+ptrkb 25min
+umoia 8min
+ymrba 48min
+skhrs 21min
+kbulx 14min
+hrgbz 35min
+jejds 39min
+mcahq 42min
+jpbfq 22min
+knegh 37min
+cjkzm 37min
+mqxpq 10min
+xkclg 55min
+bocbo 36min
+ctsah 59min
+swbvu 45min
+qvdlg 36min
+fmmuw 26min
+ktcxn 23min
+zfvib 46min
+iycck 44min
+rrhuk 38min
+gjncg 2min
+wxxht 51min
+aqees 1min
+qdppm 31min
+ezthk 29min
+nnarb 9min
+umasq 28min
+serbo 3min
+lmask 43min
+nhfjf 1min
+ixhpi 16min
+bvulh 28min
+uohri 41min
+vhkqd 29min
+ktahk 11min
+nifpb 49min
+mgrjy 54min
+xciso 55min
+ssmro 46min
+qdusa 5min
+hdltj 15min
+wdacy 18min
+cyeqc 19min
+jqnwb 28min
+dbgmr 57min
+hltwb 60min
+sqrfp 50min
