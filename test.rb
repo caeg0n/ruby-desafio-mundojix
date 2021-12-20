@@ -13,17 +13,15 @@ class IndexTest < Test::Unit::TestCase
     end
 
     #elaborar uma função que cria arquivo texto com diferentes palestras com periodos aleatorios 
-    def generate_new_file
-        
+    def generate_new_file        
         open('proposals.txt', 'w') do |f|
             for i in 1..(rand 1..150) 
                 task_name = (0...5).map { ('a'..'z').to_a[rand(26)] }.join
-                min = rand 1..60
-                line = task_name + ' '+min.to_s+'min'
+                min = rand 1..90
+                line = task_name +' '+min.to_s+'min'
                 f.puts line
             end 
         end
-
     end
 
     def test_it_ok
